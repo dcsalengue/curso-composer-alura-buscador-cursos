@@ -1,7 +1,6 @@
 {
     "name": "dcsalengue/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
-    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
@@ -41,6 +40,6 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN, PHPCS e PHPUNIT"
     },
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-only",
     "bin": ["buscar-cursos.php"]
 }
