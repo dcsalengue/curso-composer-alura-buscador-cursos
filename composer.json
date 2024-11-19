@@ -1,7 +1,7 @@
 {
     "name": "dcsalengue/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
